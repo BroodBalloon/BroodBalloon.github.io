@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile https://i382321.hera.fhict.nl/deelproducten/zonnestelsel-uitwerking.pdf
+AuthUserFile https://broodballoon.github.io./
 require valid-user

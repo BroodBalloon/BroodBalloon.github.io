@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile https://broodballoon.github.io
+AuthUserFile https://broodballoon.github.io/
 require valid-user
